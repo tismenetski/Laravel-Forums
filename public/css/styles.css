@@ -1,0 +1,27 @@
+#add-discussion-btn {
+    width: 100%;
+    color: #fff;
+}
+
+.btn.btn-info{
+    color: #fff;
+}
+
+
+#discussion-reply-gravatar,#discussion-best-reply-avatar,#discussion-gravatar{
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+
+}
+
+#discussion-best-reply{
+    color: #fff;
+}
+
+
+#notifications-badge
+{
+    color: #fff;
+    /*border-radius: 50%;*/
+}
